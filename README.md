@@ -7,7 +7,7 @@ My name is Lucas Florêncio de Brito and I work as Software Test Engineer. I'm i
 
 Programme Languages:
  - Java
- - Python
+ - JavaScript
 
 <div align="center">
   <a href="https://github.com/lucasflorenciodebrito">
